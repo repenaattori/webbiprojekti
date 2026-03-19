@@ -1,2 +1,3 @@
 Eka versio historiapelistä
 Peli valmis
+Korjataan bugeja.
